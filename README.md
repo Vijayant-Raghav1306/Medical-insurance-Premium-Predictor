@@ -1,2 +1,6 @@
-# Medical-insurance-Premium-Predictor
-The Medical Insurance Premium Prediction project uses machine learning to predict insurance costs based on age, gender, BMI, smoking status, and more. It aids insurers in pricing strategies and helps individuals understand potential premiums, enhancing financial planning.
+The Medical Insurance Premium Prediction project aims to develop a machine learning model that predicts medical insurance premiums based on various personal and demographic factors. This project provides valuable insights for insurance companies to fine-tune their pricing strategies and helps individuals understand potential insurance costs.
+
+Features
+.Predicts insurance premiums based on inputs such as age, gender, BMI, number of children, smoking status, and region.
+.Utilizes a dataset of historical insurance data for training the model.
+.Includes a web-based interface for easy user interaction and real-time premium estimates.
